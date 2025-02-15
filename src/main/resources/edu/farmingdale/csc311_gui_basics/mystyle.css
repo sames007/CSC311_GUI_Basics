@@ -1,0 +1,12 @@
+/* Style the root container (background color) */
+.root {
+    -fx-background-color: #FF0000;
+}
+
+/* Style the label text */
+.label {
+    -fx-text-fill: #1d12F4;
+    -fx-font-size: 40 px;
+    -fx-font-family: "Freestyle Script";
+    -fx-font-weight: bold;
+}
